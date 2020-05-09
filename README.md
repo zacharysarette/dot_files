@@ -1,7 +1,5 @@
-# dot_files
+# dot_files :bear:
 Repo for my dot files
-
-:monkey-face:
 ## vimrc
 ### installation
 This file uses the color scheme badwolf
